@@ -23,7 +23,7 @@ as well as the machine learning statistical analysis.
 
 
 
-### cropland area calculation
+### Cropland area calculation
 - compute_county_cropland_area.py  (this code calculate the cropland area for each county based on the pixel-level cropland density product of Ye et al. (2024),
   which is necessary for us to rasterize our shapefiles)
 - run_compute_county_cropland_area.sh  (this executes the above python code)
