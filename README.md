@@ -4,7 +4,7 @@ This repository includes the code used to create the analysis and figures in
 **Tsao et al. (2026)** A spatially explicit dataset of agriculture liming across the contiguous United States (manuscript under review)
 
 and our data product 
-Tsao, et al., (2025). Agricultural lime application across the contiguous United States, 1930–1987 [Data set]. Zenodo.
+Tsao, et al., (2026). Agricultural lime application across the contiguous United States, 1930–1987 [Data set]. Zenodo.
 
 ## Data Sources
 The raw data used in this study are collected from Haines et al. (2018) https://www.icpsr.umich.edu/web/ICPSR/studies/35206
